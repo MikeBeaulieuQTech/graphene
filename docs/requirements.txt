@@ -2,3 +2,4 @@
 Sphinx==1.5.3
 # Docs template
 http://graphene-python.org/sphinx_graphene_theme.zip
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
